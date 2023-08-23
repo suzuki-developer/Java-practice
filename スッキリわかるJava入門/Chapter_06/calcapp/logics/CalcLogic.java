@@ -1,5 +1,5 @@
 // 所属パッケージ名
-package Chapter_06.calapp.logics;
+package Chapter_06.calcapp.logics;
 
 public class CalcLogic {
     public static int tasu(int a, int b) {

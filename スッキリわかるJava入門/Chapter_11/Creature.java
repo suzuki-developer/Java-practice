@@ -1,0 +1,6 @@
+package Chapter_11;
+
+// 抽象クラス
+public abstract class Creature {
+    public abstract void run();    
+}
